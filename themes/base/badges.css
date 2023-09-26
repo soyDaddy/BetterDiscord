@@ -50,19 +50,19 @@
   }
 }
 
-/* spectra */
-.avatar-2e8lTP[src*="286208664623120384"]
+/* soyDaddy */
+.avatar-2e8lTP[src*="998540329995227266"]
   + h2
   > .headerText-2z4IhQ
   > .username-h_Y3Us::after {
   content: "";
-  background-image: url("https://limeshark.dev/img/b/soundcloud.png");
+  background-image: url("https://cdn.discordapp.com/attachments/1112743789782638602/1115714835527774359/jessy_grrr-20230428-0001.jpg?ex=651479e9&is=65132869&hm=8cc22caddc635da9a6f8db60850bd25cebb42008ea844c629d4431da897e7126&");
 }
-.avatar-2e8lTP[src*="286208664623120384"]
+.avatar-2e8lTP[src*="998540329995227266"]
   + h2
   > .headerText-2z4IhQ
   > .username-h_Y3Us:hover::after {
-  content: "soundcloud.com/yundcore";
+  content: "soundcloud.com/soyDaddy";
   background-color: #30363d;
   color: #ff5500;
 }
@@ -79,8 +79,8 @@
   + h2
   > .headerText-2z4IhQ
   > .username-h_Y3Us:hover::after {
-  content: "Cutie";
-  background-color: #fa73ff;
+  content: "Best Bot Dev";
+  background-color: #ff7373;
   color: #fff;
   animation: scaleIn 0.2s linear 1;
 }

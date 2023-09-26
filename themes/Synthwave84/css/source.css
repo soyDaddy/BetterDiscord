@@ -1,17 +1,17 @@
-@import url(https://celestialreaver.github.io/BetterDiscord/themes/base/icon-settings.css);
-@import url(https://celestialreaver.github.io/BetterDiscord/themes/base/hljs.css);
-@import url(https://celestialreaver.github.io/BetterDiscord/themes/base/font.css);
-@import url(https://celestialreaver.github.io/BetterDiscord/themes/base/addons.css);
-@import url(https://celestialreaver.github.io/BetterDiscord/themes/base/discard/specialColors.css);
+@import url(https://soyDaddy.github.io/BetterDiscord/themes/base/icon-settings.css);
+@import url(https://soyDaddy.github.io/BetterDiscord/themes/base/hljs.css);
+@import url(https://soyDaddy.github.io/BetterDiscord/themes/base/font.css);
+@import url(https://soyDaddy.github.io/BetterDiscord/themes/base/addons.css);
+@import url(https://soyDaddy.github.io/BetterDiscord/themes/base/discard/specialColors.css);
 
 :root {
-  --mainColor: #03edf9;
+  --mainColor: #0b7d83;
   --backgroundColor01: #2a2139;
   --backgroundColor02: #241b2f;
   --backgroundCode: #262335;
   --backgroundName: rgba(0, 0, 0, 0.2);
-  --gradientColor01: #36f9f6;
-  --gradientColor02: #f92aad;
+  --gradientColor01: #007977;
+  --gradientColor02: #8f045c;
   --rs-small-spacing: 2px;
   --rs-medium-spacing: 3px;
   --rs-large-spacing: 4px;
@@ -20,8 +20,8 @@
   --rs-large-width: 4px;
   --rs-width: 2px;
   --rs-avatar-shape: 50%;
-  --rs-online-color: #72f1b8;
-  --rs-idle-color: #fede5d;
+  --rs-online-color: #398d67;
+  --rs-idle-color: #8a7830;
   --rs-dnd-color: #fe4450;
   --rs-offline-color: #b6b1b1;
   --rs-streaming-color: #643da7;
@@ -30,7 +30,7 @@
   --rs-phone-color: var(--rs-online-color);
   --customFont: "Whitney";
   --rs-version: "1.0.2";
-  --logo-gif: url('https://i.imgur.com/z0WUs3L.gifv');
+  --logo-gif: url('https://cdn.discordapp.com/attachments/1120353006764965989/1120353293009424444/20230520_132612.png?ex=65143650&is=6512e4d0&hm=a039a7c2ca78cb1a6cc8c47afa6db3df4af656d251fea5c78cc6396a6893f896&');
   --chat-bubble: 0;
 }
 
@@ -180,7 +180,7 @@ body {
   background-color: var(--backgroundColor02) !important;
 }
 
-/*
+
 #status-picker .scrollerBase-_bVAAt {
   display: grid;
 }
@@ -309,7 +309,6 @@ body {
   width: 1px;
   height: 24px;
 }
-*/
 
 .text-sm-medium-3Pz3rB, .text-sm-normal-3Zj3Iv {
   font-family: var(--font-primary);
@@ -2564,7 +2563,7 @@ body {
   height: 56px;
   border-radius: 16px;
   overflow: hidden;
-  background-image: url("https://i.imgur.com/vxOebtr.png") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/1120353006764965989/1120353293009424444/20230520_132612.png?ex=65143650&is=6512e4d0&hm=a039a7c2ca78cb1a6cc8c47afa6db3df4af656d251fea5c78cc6396a6893f896&") !important;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -2652,12 +2651,12 @@ svg aria-hidden {
 
 #app-mount .wordmarkWindows-2dq6rw {
   position: absolute;
-  content: "SYNTHWAVE '84";
+  content: "soyDaddy";
   top: -3px;
   height: 20px;
   width: 140px;
   margin-left: 10px;
-  background-image: url("https://i.imgur.com/U6yhTRx.png") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/1113296059326799954/1156342855825096795/20230926_233326.png?ex=65149fb4&is=65134e34&hm=0e6da8216b04a5a142af94582edf6de7190a514237701692b49bf2fe419a5359&") !important;
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
